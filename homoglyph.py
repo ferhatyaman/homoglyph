@@ -46,7 +46,7 @@ def CompareWords(d,words):
 	return check
 
 
-
+# safafsklfaj
 inputs = []
 """
 inputs[0] = input('Enter first word: ') 
