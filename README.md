@@ -25,3 +25,5 @@ import urllib, html, json, homoglyph
 
 1. Run directly main.py file to generate output.txt 
 2. You can use homoglyph.py easily to compare your texts contains homoglyph caracters or not. 
+
+This project is conducted at BU Secure Systems Lab(BUSec LAB) with guidance of **Prof. Manuel EGELE**. Thanks to him, I have completed the project and learn a lot stuff. 
