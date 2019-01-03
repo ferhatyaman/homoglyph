@@ -1,6 +1,6 @@
 from homoglyph import *
 from multiprocessing import Process, Pool
-from readTwitterData import *
+from TwitterDataReader import *
 from itertools import combinations 
 import os, time
 
