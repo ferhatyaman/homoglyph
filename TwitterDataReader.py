@@ -12,7 +12,6 @@ class MyHTMLParser(HTMLParser):
 			
 
 class TwitterData:
-	"""docstring for TwitterData"""
 	def __init__(self):
 		super(TwitterData, self).__init__()
 
